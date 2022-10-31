@@ -1,2 +1,7 @@
 @import './common';
-@import './example';
+@import './utils/mixins';
+@import './utils/variables';
+@import './utils/global-styles';
+
+@import './layout/header';
+@import './layout/footer';
